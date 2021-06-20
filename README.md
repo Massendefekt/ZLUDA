@@ -1,5 +1,6 @@
-__Notice__: Due to private reasons I am currently unable to continue developing this project. If you
-want to take it over, fork it and contact me at vosen@vosen.pl
+__Note__: This is a fork of [vosen's ZLUDA](https://github.com/vosen/ZLUDA/). The master
+branch in this repository preserves their master branch.
+
 
 # ZLUDA
 

@@ -20,13 +20,13 @@ lalrpop_mod!(
 mod macros;
 
 pub mod ast;
-mod error;
-mod function;
-mod instructions;
-mod kernel;
-mod statement;
-mod types;
-mod variable;
+pub mod error;
+pub mod function;
+pub mod instructions;
+pub mod kernel;
+pub mod statement;
+pub mod types;
+pub mod variable;
 #[cfg(test)]
 mod test;
 
